@@ -7,15 +7,19 @@ Welcome to my GitHub profile! I am a passionate QA Engineer with a specializatio
 
 ## Skills
 
-
-- **Programming Languages**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"> , 
+- **Programming Languages**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
-- **Testing Frameworks**: , ![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%E2%9C%94-43B02A.svg)
-- **API Testing**: ![Requests](https://img.shields.io/badge/Requests-%E2%9C%94-FF5733.svg), Postman, Swagger
+- **Testing Frameworks**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg"alt="Pytest" width="20" height="20" />  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20" />
+- **API Testing**: Requests, Postman, Swagger
 - **Test Management Tools**: TestRail, Ora, JIRA
-- **Continuous Integration**: ![Jenkins](https://img.shields.io/badge/Jenkins-%E2%9C%94-D24939.svg)
-- **Version Control**: GIT,
- ![GitHub](https://img.shields.io/badge/GitHub-%E2%9C%94-181717.svg), Bitbucket
+- **Continuous Integration**: 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"  alt="Jenkins" width="20" height="20"/>   
+- **Version Control**: 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="20" 
+            height="20" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github" width="20" height="20" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="20" height="20" />    
 - **Database Testing**: SQL, MySQL,SQLlite
 - **Web Technologies**: HTML, CSS, JSON, XML
 - **Operating Systems**: Linux, Windows, macOS
