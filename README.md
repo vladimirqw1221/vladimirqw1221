@@ -14,7 +14,9 @@ Welcome to my GitHub profile! I am a passionate QA Engineer with a specializatio
 - **API Testing**: Requests, Postman, Swagger
 - **Test Management Tools**: TestRail, Ora, JIRA
 - **Continuous Integration**: Jenkins
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"  alt="Jenkins" width="30" height="30"/> |   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"  alt="Jenkins" width="30" height="30"/> | Docker
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30" />
+            
 - **Version Control**: Git
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="30" 
             height="30" /> | GitHub
@@ -23,6 +25,7 @@ Welcome to my GitHub profile! I am a passionate QA Engineer with a specializatio
 - **Database Testing**: SQL, MySQL,SQLlite
 - **Web Technologies**: HTML, CSS, JSON, XML
 - **Operating Systems**: Linux, Windows, macOS
+
 
 
           
