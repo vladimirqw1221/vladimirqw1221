@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a passionate QA Engineer with a specializatio
 - **API Testing**: ![Requests](https://img.shields.io/badge/Requests-%E2%9C%94-FF5733.svg), Postman, Swagger
 - **Test Management Tools**: TestRail, Ora, JIRA
 - **Continuous Integration**: ![Jenkins](https://img.shields.io/badge/Jenkins-%E2%9C%94-D24939.svg)
-- **Version Control**: Git,
+- **Version Control**: ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg),
  ![GitHub](https://img.shields.io/badge/GitHub-%E2%9C%94-181717.svg), Bitbucket
 - **Database Testing**: SQL, MySQL,SQLlite
 - **Web Technologies**: HTML, CSS, JSON, XML
