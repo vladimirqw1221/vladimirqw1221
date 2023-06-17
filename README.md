@@ -6,12 +6,11 @@
 Welcome to my GitHub profile! I am a passionate QA Engineer with a specialization in Python. I enjoy building robust test automation frameworks and ensuring the quality of software products through comprehensive testing strategies. With a strong background in software development and a keen eye for detail, I strive to deliver high-quality, bug-free applications.
 
 ## Skills
-
 - **Programming Languages**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
 - **Testing Frameworks**: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg"alt="Pytest" width="20" height="20" />  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg"alt="Pytest" width="20" height="20"  />
 - **API Testing**: Requests, Postman, Swagger
 - **Test Management Tools**: TestRail, Ora, JIRA
 - **Continuous Integration**: 
@@ -24,6 +23,9 @@ Welcome to my GitHub profile! I am a passionate QA Engineer with a specializatio
 - **Database Testing**: SQL, MySQL,SQLlite
 - **Web Technologies**: HTML, CSS, JSON, XML
 - **Operating Systems**: Linux, Windows, macOS
+
+
+          
 <!--
 **vladimirqw1221/vladimirqw1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
