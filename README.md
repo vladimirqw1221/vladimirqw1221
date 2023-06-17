@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a passionate QA Engineer with a specializatio
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
 - **Testing Frameworks**: 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg"alt="Pytest" width="20" height="20"  />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="20" height="20"  />
 - **API Testing**: Requests, Postman, Swagger
 - **Test Management Tools**: TestRail, Ora, JIRA
 - **Continuous Integration**: 
