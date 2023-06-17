@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I am a passionate QA Engineer with a specializatio
 
 ## Skills
 
-- **Programming Languages**: ![Python] (https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =100x), JavaScript
-- **Testing Frameworks**: ![Pytest](https://img.shields.io/badge/Pytest-%E2%9C%94-336791.svg), ![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%E2%9C%94-43B02A.svg)
+- **Programming Languages**: ![Python] (https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg), JavaScript
+- **Testing Frameworks**: ![Pytest](https://img.shields.io/badge/Pytest-%E2%9C%94-336791.svg =100x), ![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%E2%9C%94-43B02A.svg)
 - **API Testing**: ![Requests](https://img.shields.io/badge/Requests-%E2%9C%94-FF5733.svg), Postman, Swagger
 - **Test Management Tools**: TestRail, Ora, JIRA
 - **Continuous Integration**: ![Jenkins](https://img.shields.io/badge/Jenkins-%E2%9C%94-D24939.svg)
