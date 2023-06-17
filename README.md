@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a passionate QA Engineer with a specializatio
 - **Programming Languages**: Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"> | JavaScript
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
 - **Testing Frameworks**: Selenium
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="30" height="30" />| Pytest
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="30" height="30" /> | Pytest
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="30" height="30"  />
 - **API Testing**: Requests, Postman, Swagger
 - **Test Management Tools**: TestRail, Ora, JIRA
@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I am a passionate QA Engineer with a specializatio
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30" />
             
 - **Version Control**: Git
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="30" 
-            height="30" /> | GitHub
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30" />
+             | GitHub
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github" width="30" height="30" />  | Bitbucket
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="30" height="30" />    
 - **Database Testing**: SQL, MySQL,SQLlite
