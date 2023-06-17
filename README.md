@@ -6,7 +6,7 @@
 Welcome to my GitHub profile! I am a passionate QA Engineer with a specialization in Python. I enjoy building robust test automation frameworks and ensuring the quality of software products through comprehensive testing strategies. With a strong background in software development and a keen eye for detail, I strive to deliver high-quality, bug-free applications.
 
 ## Skills
-- **Programming Languages**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"> 
+- **Programming Languages**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
 - **Testing Frameworks**: 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20" />
