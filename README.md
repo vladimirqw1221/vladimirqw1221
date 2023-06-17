@@ -1,7 +1,7 @@
 # QA Engineer - Python Specialist
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green.svg)](https://github.com/vladimirqw1221)
-[![Telegram](https://img.shields.io/badge/Telegram-Connect-blue.svg)](https://t.me/@valdimirshe)
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-blue.svg)](https://t.me/valdimirshe)
 
 Welcome to my GitHub profile! I am a passionate QA Engineer with a specialization in Python. I enjoy building robust test automation frameworks and ensuring the quality of software products through comprehensive testing strategies. With a strong background in software development and a keen eye for detail, I strive to deliver high-quality, bug-free applications.
 
