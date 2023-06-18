@@ -1,5 +1,5 @@
 # QA Engineer - Python Specialist
-# QA Engineer - Manual Testing
+
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green.svg)](https://github.com/vladimirqw1221)
