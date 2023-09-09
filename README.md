@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a passionate QA Engineer with a specializatio
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github" width="30" height="30" />  | Bitbucket
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="30" height="30" />    
 - **Database Testing**: SQL, MySQL,SQLlite
-- **Web Technologies**: HTML, CSS, JSON, XML
+- **Web Technologies**: HTML, CSS, JSON, XML, YAML
 - **Operating Systems**: Linux, Windows, macOS
 
 
